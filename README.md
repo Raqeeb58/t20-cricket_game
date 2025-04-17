@@ -15,6 +15,7 @@ ball_count: tracks balls bowled.
 team_score: handles score and wickets.
 
 score_comparator: decides innings/game over and winner.
+
 1. Module: ball_count
 Tracks the ball count per team.
 
@@ -28,6 +29,7 @@ Key Outputs:
 team_1_ball, team_2_ball: independent ball counts.
 
 ball_count: reflects the active team’s count.
+
  2. Module: team_score
 Manages scoring logic and wickets.
 
